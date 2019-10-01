@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Sagar Datta](https://github.com/sagar-datta)
+- Place: Perth, Western Australia
+- Bio: Computer Science student
+- GitHub: [sagar-datta](https://github.com/sagar-datta)
